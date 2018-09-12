@@ -1,7 +1,7 @@
 # GifPlayer
 Gif Player run gif 
 
-With this app user can run anf gif with a url, Enter the gif url and can see running gif
+With this app user can run any gif with a url, Enter the gif url and can see running gif.
 
 Used Open Source File UIImage+animatedGIF for the example
 
